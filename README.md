@@ -1,6 +1,8 @@
 # Markdown-Integrated-Notes (MIN)
 
 This is a simple Markdown integrated notes taking app.
+Preview : https://iparth08.github.io/markdown-notes/
+
 
 ## Features
 
